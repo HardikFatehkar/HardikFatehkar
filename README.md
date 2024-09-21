@@ -1,8 +1,4 @@
 
-Here’s a tailored README.md section for your GitHub profile as a QA professional:
-
-markdown
-Copy code
 # Hi there, I'm Hardik! 👋
 
 ## About Me
